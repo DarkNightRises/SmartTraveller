@@ -1,0 +1,66 @@
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+
+    android:background="@color/redPrimaryDark">
+   <RelativeLayout
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:padding="5dp"
+       android:gravity="center_vertical">
+
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:orientation="horizontal"
+          android:padding="3dp"
+          android:layout_alignParentEnd="true">
+         <LinearLayout
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_alignParentRight="true"
+             android:padding="1dp"
+             android:layout_marginRight="10dp"
+             >
+
+            <ImageView
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/share_webpage"
+                android:id="@+id/sharePage"/>
+
+
+
+         </LinearLayout>
+
+         <LinearLayout
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:id="@+id/close_linear"
+             android:padding="1dp">
+
+            <ImageView
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:id="@+id/backWebpage"
+                android:background="@drawable/close"/>
+         </LinearLayout>
+      </LinearLayout>
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:id="@+id/title_website"
+          android:text="SmartTraveller"
+          android:textSize="15sp"
+          android:textColor="#ffffff"
+          android:layout_centerVertical="true"
+          android:layout_alignParentStart="true" />
+
+
+   </RelativeLayout>
+
+
+
+   </android.support.v7.widget.Toolbar>

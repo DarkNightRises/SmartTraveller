@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_a104bcd231b098b8cf16a85b78d0981cf127d8a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_b995b141692d49d408762fef7dbc6533c8969d24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.4.0_bea3344c9f54e4579a1b4a83c01f8d40afceca35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_a0e2ec318ccce976715df44fef563181f426a47b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_b7bd498b165021d16b2a0d56253371b7c4d637ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_cd078131758047981538d19fa030eef990aebcfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.4.0_74598b507d1c8b65420c46579479ac47ed38602c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_2f07f33be3dbd72fc0ea79e706416420a276e41b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_34fa9b1a0293037dc4bd84196227f6690808a974.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.4.0_53af9f70ee0d239cea0f52357edc99cb2e96f5bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_cbc82674b65dfea6ad7a0a5f2b189e006785135d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_4b72af76ad0870f6ac6288a6569a8dc293cb136e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.4.0_5b08d1f76b2d41b972b421bc34cf8147abbc87bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_5852189e34760b9d1638b42ebb7c06330360bfb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.4.0_2dd5c9057a39738bb8f9d959f502f7bbcd972e4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_7cb2a5b21f51f01ac1c8a709dbefecca3d51834b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.4.0_95481ec35eab36b62d4c9a033aea269c93822c82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kartikey/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_8e58985ef9f960e3b258f7a54885dbc548fa8e88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.4.0_8d374e76ce258c799b3e7ada83b20a7bc706b6cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kartikey/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_a7be5bc39ecdb014d941c5f500b712479059204a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/kartikey/Desktop/shocket/SmartTraveller/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_14d1589c89d81fb6f734bc853cfd9454d5daa07c.jar" />
+    </item>
+
+</items>
